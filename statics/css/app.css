@@ -1,0 +1,21 @@
+thead{
+  background-color: #abeafe;
+}
+
+.callout.primary{
+  background-color: #324780;
+  color: #fff;
+}
+.pagination .current{
+  background-color: #324780;
+  color: #fff;
+}
+
+.pagination a:hover{
+  background-color: #324780;
+  color: #fff;
+}
+
+.dataTables_info{
+  color: #324780;
+}
